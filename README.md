@@ -46,9 +46,9 @@ A Python-based computer vision application utilizing facial landmark detection m
 ## 📈 Executive Impact Track Record
 
 Before shifting full-time into Computer Information Systems, I built a decade-long foundation managing high-stakes physical and digital production pipelines:
-* **Digital Scale:** Architected and managed remote digital optimization campaigns generating over **30 Million organic impressions**, 5+ Million video views, and building a community of 10,000+ active subscribers since age 12.
+* **Digital Scale:** Architected and managed remote digital optimization campaigns generating over **35 Million organic impressions**, 8+ Million video views, 75,000+ daily viewers, and building a community of 10,000+ active subscribers since age 12.
 * **Industrial Logistics:** Served as a Warehouseman and Material Handler at MGP Ingredients, checking Critical Control Points (CCPs), running SAP workflows, supervising material handlers, and orchestrating freight line mechanics to ensure strict safety and shipping protocol compliance.
-* **Postal Infrastructure:** Managed, sorted, and routed high-density municipal mail pathways by hand for the United States Postal Service across multi-relay walking and driving delivery channels.
+* **Postal Infrastructure:** Managed, sorted, and routed high-density municipal mail pathways by hand for the United States Postal Service across multi-relay walking and driving delivery routes.
 
 ---
 

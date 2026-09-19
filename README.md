@@ -58,5 +58,4 @@ I am actively looking to connect with recruiters, engineering leads, and technol
 
 * **💼 LinkedIn:** [https://www.linkedin.com/in/haydon-barnes-a1a993410/]
 * **📧 Business Email:** [haydonebarnes@gmail.com](mailto:haydonebarnes@gmail.com)
-* **📱 Business Cell:** [+1 (785) 288-0484](tel:+17852880484)
 

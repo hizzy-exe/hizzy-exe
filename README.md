@@ -56,7 +56,7 @@ Before shifting full-time into Computer Information Systems, I built a decade-lo
 
 I am actively looking to connect with recruiters, engineering leads, and technology teams across the Greater Kansas City/Topeka region *(willing to relocate)* for positions in **Cybersecurity Analyst, Security Operations (SecOps), DevOps, Infrastructure Automation, or Technical Operations**.
 
-* **💼 LinkedIn:** [Your LinkedIn Profile Link Here]
-* **📧 Email:** [haydonebarnes@gmail.com](mailto:haydonebarnes@gmail.com)
-* **📱 Cell:** [+1 (785) 288-0484](tel:+17852880484)
+* **💼 LinkedIn:** [https://www.linkedin.com/in/haydon-barnes-a1a993410/]
+* **📧 Business Email:** [haydonebarnes@gmail.com](mailto:haydonebarnes@gmail.com)
+* **📱 Business Cell:** [+1 (785) 288-0484](tel:+17852880484)
 

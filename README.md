@@ -1,61 +1,57 @@
-# 👋 Hi, I'm Haydon Barnes (hizzy-exe)
+# Haydon Barnes
 
-### 🌾 Farm-Raised Operator | 💻 CIS & Cybersecurity @ JCCC | 📈 Systems & Data Automation
+**CIS & Cybersecurity Student | Systems & Data Automation | SecOps Focus**
 
-I am a highly disciplined, results-driven professional transitioning my extensive background in **operations, high-scale digital analytics, and logistics** into the fields of **Cybersecurity, SecOps, and Systems Automation**. Raised with a relentless farm work ethic, I thrive in fast-paced, high-pressure environments—whether managing end-to-end supply chains, analyzing complex datasets, or securing digital infrastructure.
+Results-driven professional transitioning from operations, logistics, and digital analytics into Cybersecurity, Security Operations, and Systems Automation. Currently maintaining a 4.0 GPA while pursuing an A.A.S. in Computer Information Systems at Johnson County Community College (expected December 2027).
 
-Currently maintaining a **4.0 GPA at Johnson County Community College** for my A.A.S. in Computer Information Systems, I leverage structural programming, data pipelines, and security frameworks to build robust, resilient IT solutions.
-
----
-
-## 🛠️ Technical Ecosystem & Tools
-
-### 🛡️ Cybersecurity & Infrastructure
-* **Core Frameworks:** Risk Management, Incident Response, Mitigation Strategies, System Hardening, Compliance & Frameworks
-* **Networking & Monitoring:** Wireshark, Cisco Systems & Management, SIEM Systems, Threat Identification, Network Security
-* **Operating Systems:** Linux, Windows Environment Automation
-
-### 💾 Software Development & Data Engineering
-* **Languages:** Python (ETL & Scripting), C++, Bash, SQL
-* **Data & Enterprise Systems:** SAP ERP, Data Management, Advanced Applied Mathematics, Entry-Level Accounting
-
-### 📋 Operations & Leadership
-* **Logistics & Scale:** Team Leadership, Employee Scheduling, Multi-Channel Account Management, Industrial Forklift & Material Triage
+I build practical automation, data pipelines, and security-oriented tools with a focus on reliability and operational usefulness.
 
 ---
 
-## 🚀 Featured Technical Portfolio
+## Technical Skills
 
-### 📊 [kc-topeka-job-market-analyzer](https://github.com)
-An automated, end-to-end **Extract, Transform, Load (ETL) data pipeline** written in Python. It is custom-tailored to scrap, sanitize, and process data science and engineering roles specifically across the Kansas City and Topeka regional job markets to identify tech stack hiring trends.
+**Cybersecurity & Infrastructure**  
+Risk Management • Incident Response • System Hardening • Network Security • SIEM Concepts • Wireshark • Linux & Windows Automation
 
-### 🚨 [automated-incident-response-test](https://github.com)
-An automated IT Support and SecOps sandbox built using PowerShell and Bash scripts. It bridges custom Windows/Linux diagnostic and system hardening routines directly into the **ServiceNow ITSM API** for real-time automated incident tracking, triage, and threat mitigation.
+**Software Development & Data**  
+Python (ETL, scripting, APIs) • PowerShell • Bash • SQL • C++ • Docker • Data Pipelines
 
-### 👁️ [face-recognition-app](https://github.com)
-A Python-based computer vision application utilizing facial landmark detection models to showcase lightweight, local algorithmic script security automation.
-
----
-
-## 🎓 Education & Professional Credentials
-
-* **A.A.S. in Computer Information Systems (GPA: 4.0)** | Johnson County Community College *(In Progress, Expected Dec 2027)*
+**Operations Background**  
+Team leadership • Process compliance • SAP ERP workflows • High-volume logistics and material handling
 
 ---
 
-## 📈 Executive Impact Track Record
+## Featured Projects
 
-Before shifting full-time into Computer Information Systems, I built a decade-long foundation managing high-stakes physical and digital production pipelines:
-* **Digital Scale:** Architected and managed remote digital optimization campaigns generating over **35 Million organic impressions**, 8+ Million video views, 75,000+ daily viewers, and building a community of 10,000+ active subscribers since age 12.
-* **Industrial Logistics:** Served as a Warehouseman and Material Handler at MGP Ingredients, checking Critical Control Points (CCPs), running SAP workflows, supervising material handlers, and orchestrating freight line mechanics to ensure strict safety and shipping protocol compliance.
-* **Postal Infrastructure:** Managed, sorted, and routed high-density municipal mail pathways by hand for the United States Postal Service across multi-relay walking and driving delivery routes.
+### [KC–Topeka Job Market Analyzer](https://github.com/hizzy-exe/kc-topeka-job-market-analyzer)
+End-to-end Python ETL pipeline that collects live job postings via the Adzuna API, cleans and analyzes regional data science and engineering roles, extracts in-demand skills, and generates visualizations plus an executive summary report.
+
+### [Automated Incident Response Lab](https://github.com/hizzy-exe/automated-incident-response-test)
+PowerShell-based endpoint diagnostic and ticketing prototype that structures system health data for ServiceNow ITSM-style incident creation. Focuses on automated triage patterns for common enterprise issues.
+
+### [Face Recognition Application](https://github.com/hizzy-exe/face-recognition-app)
+Containerized face verification system using DeepFace and Flask. Inference runs inside Docker while a lightweight host client streams webcam frames for real-time matching.
 
 ---
 
-## 📬 Let's Connect!
+## Education
 
-I am actively looking to connect with recruiters, engineering leads, and technology teams across the Greater Kansas City/Topeka region *(willing to relocate)* for positions in **Cybersecurity Analyst, Security Operations (SecOps), DevOps, Infrastructure Automation, or Technical Operations**.
+**A.A.S. in Computer Information Systems**  
+Johnson County Community College — GPA 4.0 (In Progress, Expected December 2027)
 
-* **💼 LinkedIn:** [https://www.linkedin.com/in/haydon-barnes-a1a993410/]
-* **📧 Business Email:** [haydonebarnes@gmail.com](mailto:haydonebarnes@gmail.com)
+---
 
+## Prior Experience Highlights
+
+- Managed digital content operations that generated 35M+ organic impressions and built an audience of 10,000+ subscribers.
+- Warehouseman / Material Handler at MGP Ingredients — SAP workflows, Critical Control Point compliance, and freight coordination.
+- United States Postal Service — high-density route sorting and delivery operations.
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/haydon-barnes-a1a993410](https://www.linkedin.com/in/haydon-barnes-a1a993410/)
+- **Email:** [haydonebarnes@gmail.com](mailto:haydonebarnes@gmail.com)
+
+Open to opportunities in Cybersecurity Analysis, Security Operations (SecOps), DevOps, Infrastructure Automation, and Technical Operations in the Kansas City / Topeka region or remote.

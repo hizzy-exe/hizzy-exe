@@ -23,6 +23,9 @@ Team leadership • Process compliance • SAP ERP workflows • High-volume log
 
 ## Featured Projects
 
+### [Live Portfolio Analytics API](https://[github.com/hizzy-exe/hizzy-exe-portfolio-api])
+FastAPI backend that serves resume data on a fast path while asynchronously enriching visitor data (reverse-DNS + geolocation) with Redis Streams, Prometheus metrics, and Docker Compose packaging.
+
 ### [KC–Topeka Job Market Analyzer](https://github.com/hizzy-exe/kc-topeka-job-market-analyzer)
 End-to-end Python ETL pipeline that collects live job postings via the Adzuna API, cleans and analyzes regional data science and engineering roles, extracts in-demand skills, and generates visualizations plus an executive summary report.
 

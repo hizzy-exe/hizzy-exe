@@ -14,7 +14,7 @@ I build practical automation, data pipelines, and security-oriented tools with a
 Risk Management • Incident Response • System Hardening • Network Security • SIEM Concepts • Wireshark • Linux & Windows Automation
 
 **Software Development & Data**  
-Python (ETL, scripting, APIs) • PowerShell • Bash • SQL • C++ • Docker • Data Pipelines
+Python (ETL, scripting, APIs) • FastAPI • PowerShell • Bash • SQL • C++ • Docker • Redis • Data Pipelines
 
 **Operations Background**  
 Team leadership • Process compliance • SAP ERP workflows • High-volume logistics and material handling
@@ -23,17 +23,17 @@ Team leadership • Process compliance • SAP ERP workflows • High-volume log
 
 ## Featured Projects
 
-### [Live Portfolio Analytics API](https://[github.com/hizzy-exe/hizzy-exe-portfolio-api])
+### [Live Portfolio Analytics API](https://github.com/hizzy-exe/hizzy-exe-portfolio-api)
 FastAPI backend that serves resume data on a fast path while asynchronously enriching visitor data (reverse-DNS + geolocation) with Redis Streams, Prometheus metrics, and Docker Compose packaging.
 
-### [KC–Topeka Job Market Analyzer](https://github.com/hizzy-exe/kc-topeka-job-market-analyzer)
+### [KC-Topeka Job Market Analyzer](https://github.com/hizzy-exe/kc-topeka-job-market-analyzer)
 End-to-end Python ETL pipeline that collects live job postings via the Adzuna API, cleans and analyzes regional data science and engineering roles, extracts in-demand skills, and generates visualizations plus an executive summary report.
 
 ### [Automated Incident Response Lab](https://github.com/hizzy-exe/automated-incident-response-test)
-PowerShell-based endpoint diagnostic and ticketing prototype that structures system health data for ServiceNow ITSM-style incident creation. Focuses on automated triage patterns for common enterprise issues.
+PowerShell lab that collects real endpoint diagnostics and builds ServiceNow-style incident payloads for common enterprise scenarios. Supports dry-run mode by default.
 
 ### [Face Recognition Application](https://github.com/hizzy-exe/face-recognition-app)
-Containerized face verification system using DeepFace and Flask. Inference runs inside Docker while a lightweight host client streams webcam frames for real-time matching.
+Containerized face enrollment and verification system using DeepFace, Flask, and Gradio. Users upload a face to enroll, then verify later uploads against it. Face detection runs before DeepFace matching.
 
 ---
 
